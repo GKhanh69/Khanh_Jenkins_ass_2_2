@@ -1,0 +1,7 @@
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\Lab2_devops.exe
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\Lab2_devops.dll
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\Lab2_devops.deps.json
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\Lab2_devops.runtimeconfig.json
+D:\VISUALSTUDIOrepos\Lab2_devops\obj\Release\net6.0\PubTmp\Out\Lab2_devops.pdb
